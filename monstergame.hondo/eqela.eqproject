@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thu23
+#
+
+projectname: thu23
+vendorid: com.mycompany
+mainmodule: com.mycompany.thu23
